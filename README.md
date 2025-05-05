@@ -23,10 +23,10 @@
        <img src="https://skillicons.dev/icons?i=css"  alt="Css" />
     </td>
    <td>
-       <img src="https://skillicons.dev/icons?i=css"  alt="javascript" />
+       <img src="https://skillicons.dev/icons?i=javascript"  alt="javascript" />
     </td>
    <td>
-       <img src="https://skillicons.dev/icons?i=css"  alt="nodejs" />
+       <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs" />
     </td>
   </tr>
 </table>

@@ -22,6 +22,12 @@
     <td>
        <img src="https://skillicons.dev/icons?i=css"  alt="Css" />
     </td>
+   <td>
+       <img src="https://skillicons.dev/icons?i=css"  alt="javascript" />
+    </td>
+   <td>
+       <img src="https://skillicons.dev/icons?i=css"  alt="nodejs" />
+    </td>
   </tr>
 </table>
 <h3>Work report ⭐</h3>
